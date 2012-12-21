@@ -1,0 +1,3 @@
+Here's where we put the script for the video analysis software and other utilities.
+
+We'll also include some of the extra video files.
